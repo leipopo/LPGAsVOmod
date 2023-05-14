@@ -10,7 +10,7 @@ https://a360.co/43akzyH
 
 # 不安装ptc效果如下
 
-![不安装ptc](/img/NO PTC.jpg "不安装ptc")
+![不安装ptc](/img/NO_PTC.jpg "不安装ptc")
 
 # 安装ptc和热敏方式如下 
 
