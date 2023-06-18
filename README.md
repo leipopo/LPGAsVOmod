@@ -8,7 +8,7 @@ https://a360.co/43akzyH
 PTC heater CAD: https://grabcad.com/library/ptc-heater-12v-50w-1
 
 
-# 此方案在使用因大流量火山热端而加长的喷头时效果更佳。(This solution works better when using a toolhead that has been extended due to high flow and hot end temperatures.)
+# 此方案在使用因大流量火山热端而加长的喷头时效果更佳。(This solution works better when using a toolhead that has been extended due to high flow.)
 
 原版标准长度喷头需要抬高PTC处风道来减少出风口正对热床的面积，但是由于原版喷嘴高度问题抬高后也无法完全避免在前十多层里侧吹吹到热床的问题，同时会极大减小出风口宽度，降低空气流量，对比图如下。
 
@@ -22,9 +22,13 @@ The above picture shows the extended toolhead, with a Z height of zero. Since th
 
 ![标准喷头](/img/原版标准长度侧吹高度.jpg "标准喷头")
     
-上图为标准长度的原版喷头，可以看到如果要完全避免吹到热床，需要删除风道主体出风口的收束设计和抬高ptc位置的风道但是也只能留出不到5mm（风道壁厚 1mm，距离xyjoint 0.5mm）的出风口高度（图示侧吹版本是13mm高度的出风口，带风道收束，可以按需减少出风口高度增加流速，但仓库内版本为了对标准长度进行兼容设计了较高的高度）。
+上图为标准长度的原版喷头，可以看到如果要完全避免吹到热床，需要删除风道主体出风口的收束设计和抬高ptc位置的风道但是也只能留5mm左右（风道壁厚 1mm，距离xyjoint 0.5mm）的出风口高度。
 
-The above picture shows the original standard length toolhead, and it can be seen that in order to completely avoid blowing onto the heated bed, it is necessary to remove the convergence design of the air outlet of the main air duct and raise the air duct at the PTC position. However, this can only leave a height of less than 5mm (air duct wall thickness 1mm, distance from xyjoint 0.5mm) for the air outlet (the version shown in the figure has an air outlet height of 13mm with air duct convergence, which can be reduced as needed to increase the flow rate, but the version in the repository is designed with a higher height to be compatible with the standard length).
+The above picture shows the original standard length toolhead, and it can be seen that in order to completely avoid blowing onto the heated bed, it is necessary to remove the convergence design of the air outlet of the main air duct and raise the air duct at the PTC position. However, this can only leave a height of less than 5mm (air duct wall thickness 1mm, distance from xyjoint 0.5mm) for the air outlet.
+
+CAD模型中提供了适应加长喷头和不加长喷头的两种高度的风道，请按打印机实际配置选择，否则加长喷头会与适配标准长度喷头的风道干涉，而stl文件中额外包含了最初设计的兼容两种喷头长度的风道但是其出风口较高流速会较慢。
+
+The CAD model provides two heights of air ducts that are suitable for both extended and non-extended toolhead. Please choose according to the actual configuration of the printer, otherwise the extended toolhead will interfere with the air duct that is designed to be compatible with the standard length toolhead. The stl file also includes the original design of the air duct that is compatible with both toolhead lengths, but its air outlet is higher and the flow rate is slower.
 
 # 安装PTC效果如下：(The installation of the PTC has the following effect:)
 
