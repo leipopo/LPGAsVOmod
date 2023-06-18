@@ -3,8 +3,7 @@
 Translated by ChatGPT3.5, manually checked. Errors are welcome to be pointed out.
 
 # 在线CAD链接(Online CAD link)：
-
-## https://a360.co/43akzyH
+https://a360.co/43akzyH
 ## 以在线CAD文件为准，stl不保证为最新版本。(The online CAD file is the authoritative version, and the stl file is not guaranteed to be the latest version.)
 PTC heater CAD: https://grabcad.com/library/ptc-heater-12v-50w-1
 
@@ -17,7 +16,7 @@ The original standard length nozzle needs to raise the air duct at the PTC to re
 
 ![加长喷头](/img/火山加长长度侧吹高度.jpg "加长喷头")
     
-上图为加长喷头，此时z高度为零，由于机器构建时间较早，我使用的是3DPMAMSIH基于v0的xcarriage设计的 https://github.com/Mamsih/VOV0-toolhead-voron-Zero喷头和基于mellow配件改装的火山龙热端。
+上图为加长喷头，此时z高度为零，由于机器构建时间较早，我使用的是3DPMAMSIH基于v0的xcarriage设计的 https://github.com/Mamsih/VOV0-toolhead-voron-Zero 喷头和基于mellow配件改装的火山龙热端。
 
 The above picture shows the extended nozzle, with a Z height of zero. Since the machine was built earlier, I used the hot end with xcarriage design based on v0 by 3DPMAMSIH, and the nozzle was modified using Mellow accessories and a volcano hot end. The design can be found at https://github.com/Mamsih/VOV0-toolhead-voron-Zero.
 
