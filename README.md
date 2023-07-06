@@ -2,7 +2,7 @@
 
 ## 本项目为Voron-0的一些改装件，包括一对灯条，一个使用横流风机的辅助散热装置，一个使用横流风机的舱内空气温加热和过滤装置以及一对前框架的支撑件。(This project includes several modifications for Voron-0, including a pair of light bars, an auxiliary cooling device utilizing cross-flow fans, a cabin air temperature heating and filtering device using cross-flow fans, and a pair of support components for the front frame.)
 
-## 此方案在使用因大流量火山热端而加长的喷头时效果更佳。(This solution works better when using a toolhead that has been extended due to high flow.)
+## 此方案在使用因大流量火山热端而加长的喷头时效果更佳。(This solution works better when using a toolhead that has been extended due to high flow hotend.)
 
 ![整体效果](/img/整体效果CAD.jpg "整体效果")
 
