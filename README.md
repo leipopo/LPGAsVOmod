@@ -50,3 +50,10 @@
 
 ![安装灯条](/img/灯条安装.jpg "安装灯条")
 
+# 安装热床下干燥盒：(The installation of the the drying box under the heated bed is as follows:)
+
+![安装热床下干燥盒](/img/IMG_20230730_180736.jpg "安装热床下干燥盒")
+
+![安装热床下干燥盒](/img/IMG_20230730_181725.jpg "安装热床下干燥盒")
+
+
