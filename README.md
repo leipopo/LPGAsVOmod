@@ -1,6 +1,6 @@
 # LPGAsVOmod (Translated by ChatGPT3.5, manually checked. Errors are welcome to be pointed out.)
 
-## 本项目为Voron-0的一些改装件，包括一对灯条，一个使用横流风机的辅助散热装置，一个使用横流风机的舱内空气温加热和过滤装置以及一对前框架的支撑件。(This project includes several modifications for Voron-0, including a pair of light bars, an auxiliary cooling device utilizing cross-flow fans, a cabin air temperature heating and filtering device using cross-flow fans, and a pair of support components for the front frame.)
+## 本项目为Voron-0的一些改装件，包括一对灯条，一个使用横流风机的辅助散热装置，一个使用横流风机的舱内空气温加热和过滤装置，一对前框架的支撑件，一个热床下过滤盒以及一个帽子锁扣。(This project includes several modifications for Voron-0, including a pair of light bars, an auxiliary cooling device utilizing cross-flow fans, a cabin air temperature heating and filtering device using cross-flow fans, a pair of support components for the front frame, a drying box under the heat bed, and a pair of hat lock(if you don't want to disassemble your printer before using the new hat in v0.2).)
 
 ## 此方案在使用因大流量火山热端而加长的喷头时效果更佳。(This solution works better when using a toolhead that has been extended due to high flow hotend.)
 
@@ -50,10 +50,12 @@
 
 ![安装灯条](/img/灯条安装.jpg "安装灯条")
 
-# 安装热床下干燥盒：(The installation of the the drying box under the heat bed is as follows:)
+# 安装热床下干燥盒：(The installation of the drying box under the heat bed is as follows:)
 
 ![安装热床下干燥盒](/img/IMG_20230730_180736.jpg "安装热床下干燥盒")
 
 ![安装热床下干燥盒](/img/IMG_20230730_181725.jpg "安装热床下干燥盒")
 
+# 帽子锁扣：(hat lock (unverified):)
 
+![帽子锁扣](/img/帽子锁扣.jpg "帽子锁扣")
