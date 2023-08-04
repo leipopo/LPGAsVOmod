@@ -20,7 +20,7 @@
 
 风机下方为放置干燥剂的盒子。The box below the fan is for placing desiccant.
 
-# 安装PTC和热敏方式如下：（The installation of the PTC and the thermistor is as follows:）
+# 安装PTC加热和过滤盒的方式如下：(The installation of the PTC heater and filter box is as follows:)
 
 ## 拆卸PTC外壳，使用扎带穿过在PTC风道板预留的孔绑住PTC上的隔栅以及热敏，热敏从PTC风道板预留的孔位穿出。
 ## Disassemble the PTC casing and use zip ties to secure the grille and thermal sensor on the PTC through the holes reserved in the PTC air duct board. The thermal sensor should protrude from the hole in the PTC air duct board.
