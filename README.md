@@ -1,6 +1,6 @@
 # LPGAsVOmod (Translated by ChatGPT3.5, manually checked. Errors are welcome to be pointed out.)
 
-## 本项目为Voron-0的一些改装件，包括一对灯条，一个使用横流风机的辅助散热装置，一个使用横流风机的舱内空气温加热和过滤装置，一对前框架的支撑件，一个热床下过滤盒以及一个帽子锁扣。(This project includes several modifications for Voron-0, including a pair of light bars, an auxiliary cooling device utilizing cross-flow fans, a cabin air temperature heating and filtering device using cross-flow fans, a pair of support components for the front frame, a drying box under the heat bed, and a pair of hat lock(if you don't want to disassemble your printer before using the new hat in v0.2).)
+## 本项目为Voron-0的一些改装件，(This project includes several modifications for Voron-0.)
 
 ![整体效果](/img/整体效果CAD.jpg "整体效果")
 
@@ -43,6 +43,22 @@
 
 ![安装磁铁](/img/IMG_20230513_213003.jpg "安装磁铁")
 
+# 帽子扣：(hat lock:)
+
+![帽子卡扣](/img/帽子卡扣.jpg "帽子卡扣")
+
+![帽子磁扣](/img/帽子磁扣.jpg "帽子锁扣")
+
+建议使用卡扣，磁扣可能会在搬动时滑脱，进一步可能导致帽子铰链断裂，当机器不再移动时可以考虑使用磁扣。It is recommended to use the first buckle. The second magnetic buckle may slip when moving, which may further cause the hat hinge to break. When the machine is no longer moving, you can consider using the magnetic buckle.
+
+# 电器仓排风扇：(Electrical compartment exhaust fan:)
+
+![电器仓排风扇](/img/电器仓排风扇.jpg "电器仓排风扇")
+
+![电器仓排风扇](/img/电器仓排风扇1.jpg "电器仓排风扇")
+
+电器仓排风扇兼顾过滤，内置过滤盒，滤盒上下隔开，上部放入活性炭或hepa过滤，下部可不装东西提高电器仓散热效率，详见CAD。The electrical compartment exhaust fan takes into account filtering, with a built-in filter box. The filter box is separated from top to bottom. Activated carbon or hepa filter can be placed in the upper part, and nothing can be installed in the lower part to improve the heat dissipation efficiency of the electrical compartment. See CAD for details.
+
 # 安装门卡扣：(The installation of the door latch is as follows:)
 
 ![安装门卡扣](/img/IMG_20230617_192143.jpg "安装门卡扣")
@@ -61,18 +77,3 @@
 
 ![安装热床下干燥盒](/img/IMG_20230730_181725.jpg "安装热床下干燥盒")
 
-# 帽子扣：(hat lock:)
-
-![帽子卡扣](/img/帽子卡扣.jpg "帽子卡扣")
-
-![帽子磁扣](/img/帽子磁扣.jpg "帽子锁扣")
-
-建议使用卡扣，磁扣可能会在搬动时滑脱，进一步可能导致帽子铰链断裂，当机器不再移动时可以考虑使用磁扣。It is recommended to use the first buckle. The second magnetic buckle may slip when moving, which may further cause the hat hinge to break. When the machine is no longer moving, you can consider using the magnetic buckle.
-
-# 电器仓排风扇：(Electrical compartment exhaust fan:)
-
-![电器仓排风扇](/img/电器仓排风扇.jpg "电器仓排风扇")
-
-![电器仓排风扇](/img/电器仓排风扇1.jpg "电器仓排风扇")
-
-电器仓排风扇兼顾过滤，内置过滤盒，滤盒上下隔开，上部放入活性炭或hepa过滤，下部可不装东西提高电器仓散热效率，详见CAD。The electrical compartment exhaust fan takes into account filtering, with a built-in filter box. The filter box is separated from top to bottom. Activated carbon or hepa filter can be placed in the upper part, and nothing can be installed in the lower part to improve the heat dissipation efficiency of the electrical compartment. See CAD for details.
