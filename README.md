@@ -1,4 +1,4 @@
-# LPGAsVOmod (Translated by ChatGPT3.5, manually checked. Errors are welcome to be pointed out.)
+# LPGAsVOmod (Translated by ChatGPT3.5&copilot, manually checked. Errors are welcome to be pointed out.)
 
 ## 本项目为Voron-0的一些改装件，(This project includes several modifications for Voron-0.)
 
