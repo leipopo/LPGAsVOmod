@@ -1,6 +1,6 @@
 # LPGAsVOmod (Translated by ChatGPT3.5&copilot, manually checked. Errors are welcome to be pointed out.)
 
-## 本项目为Voron-0的一些改装件，(This project includes several modifications for Voron-0.)
+## 本项目为Voron V0的一些改装件，(This project includes several modifications for Voron-0.)
 
 ![整体效果](/img/整体效果CAD.jpg "整体效果")
 
